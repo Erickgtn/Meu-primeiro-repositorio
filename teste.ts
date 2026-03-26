@@ -1,0 +1,1 @@
+let soma: Number =10;
